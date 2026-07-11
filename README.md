@@ -2,7 +2,7 @@
 
 **GNAI-Core (Minimal Class)**
 
-JAXベースの最小コア：Graph Attention + Free Energy Principle + Heun Integrator を統合した几何学的認知・感情シミュレーション研究用フレームワーク。
+JAXベースの最小コア：Graph Attention + Free Energy Principle + Heun Integrator を統合した幾何学的認知・感情シミュレーション研究用フレームワーク。
 
 ## 特徴
 
